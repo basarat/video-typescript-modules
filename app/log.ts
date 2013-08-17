@@ -1,3 +1,3 @@
-export function logMessage(){
-    console.log('log');
+export function logMessage() {
+        console.log('log');
 }
