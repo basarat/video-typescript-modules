@@ -17,7 +17,7 @@ there is  NodeJS.
 
 Lsts look at both and the reason for why they are different will become easy to understand.
 
-nothing stopping you from doing this manually by declaring a var called module for commonjs 
+nothing stopping you from doing this manually by declaring a var called exports/require for commonjs 
 or define/require for amd. But again TypeScript provides typesafety for you. 
 
 I have a seperate video on using AMD with requirejs

@@ -41,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.ts" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.ts" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/main.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="17" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+            <state line="6" column="17" selection-start="151" selection-end="151" vertical-scroll-proportion="0.18959108" vertical-offset="0" max-vertical-offset="538">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -52,10 +52,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="40" selection-start="83" selection-end="83" vertical-scroll-proportion="0.033203125" vertical-offset="0" max-vertical-offset="512">
+            <state line="1" column="65" selection-start="108" selection-end="108" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="119">
               <folding />
             </state>
           </provider>
@@ -364,19 +364,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/main.ts">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="1" column="65" selection-start="108" selection-end="108" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="119">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/app/main.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="40" selection-start="83" selection-end="83" vertical-scroll-proportion="0.033203125" vertical-offset="0" max-vertical-offset="512">
-          <folding />
+        <state line="6" column="17" selection-start="151" selection-end="151" vertical-scroll-proportion="0.18959108" vertical-offset="0" max-vertical-offset="538">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
