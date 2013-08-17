@@ -1,0 +1,11 @@
+Lets look at all the means of code organization in TypeScript are plentiful. 
+
+The most common pattern is the single file generation that works with the compiler --out parameter 
+
+Additionally you are free to use the module keyword within all demos. 
+
+File level exports. Two patterns CommonJS / AMD.
+
+
+I have a seperate video on using AMD with requirejs
+ and how you would interact with non TypeScript code specific to that pattern.
