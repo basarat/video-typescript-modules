@@ -1,4 +1,5 @@
 function printMessage() {
     console.log('print');
 }
-//@ sourceMappingURL=print.js.map
+exports.printMessage = printMessage;
+

@@ -1,5 +1,8 @@
 /// <reference path="./log.ts"/>
 /// <reference path="./print.ts"/>
 
-logMessage();
-printMessage();
+import log = require('./log')
+import print = require('./print')
+
+log.logMessage();
+print.printMessage();

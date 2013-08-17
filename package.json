@@ -1,0 +1,16 @@
+{
+  "name": "video-typescript-modules",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/basarat/video-typescript-modules.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "gitHead": "89ac346029101871a8d32700a26506df863cc856"
+}

@@ -2,15 +2,18 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/main.js" />
-        <item url="file://$PROJECT_DIR$/print.js" />
-        <item url="file://$PROJECT_DIR$/log.js" />
+        <item url="file://$PROJECT_DIR$/app/main.js" />
+        <item url="file://$PROJECT_DIR$/app/print.js" />
+        <item url="file://$PROJECT_DIR$/app/log.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/main.js" />
       <root url="file://$PROJECT_DIR$/print.js" />
       <root url="file://$PROJECT_DIR$/log.js" />
+      <root url="file://$PROJECT_DIR$/app/main.js" />
+      <root url="file://$PROJECT_DIR$/app/print.js" />
+      <root url="file://$PROJECT_DIR$/app/log.js" />
     </CLASSES>
     <SOURCES />
   </library>
